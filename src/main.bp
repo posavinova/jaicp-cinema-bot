@@ -1,0 +1,31 @@
+{
+  "positions" : [ {
+    "id" : "/Start",
+    "x" : 267,
+    "y" : 236
+  }, {
+    "id" : "/NoMatch",
+    "x" : 617,
+    "y" : 991
+  }, {
+    "id" : "/CategoryType",
+    "name" : "CategoryType",
+    "x" : 890,
+    "y" : 494
+  }, {
+    "id" : "/BirthDay",
+    "name" : "BirthDay",
+    "x" : -230,
+    "y" : 283
+  }, {
+    "id" : "/Discounts",
+    "name" : "Discounts",
+    "x" : 201,
+    "y" : 895
+  }, {
+    "id" : "/Group",
+    "name" : "Group",
+    "x" : -177,
+    "y" : 850
+  } ]
+}
