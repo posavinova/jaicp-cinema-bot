@@ -10,8 +10,8 @@
   }, {
     "id" : "/CategoryType",
     "name" : "CategoryType",
-    "x" : 915,
-    "y" : 479
+    "x" : 1036,
+    "y" : 635
   }, {
     "id" : "/Birthday",
     "name" : "BirthDay",
@@ -50,7 +50,7 @@
   }, {
     "id" : "/Welcome",
     "name" : "Welcome",
-    "x" : 665,
-    "y" : 260
+    "x" : 836,
+    "y" : 228
   } ]
 }
