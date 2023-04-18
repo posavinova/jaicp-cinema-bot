@@ -1,31 +1,51 @@
 {
   "positions" : [ {
     "id" : "/Start",
-    "x" : 267,
-    "y" : 236
+    "x" : 274,
+    "y" : 174
   }, {
     "id" : "/NoMatch",
-    "x" : 617,
-    "y" : 991
+    "x" : 737,
+    "y" : 1104
   }, {
     "id" : "/CategoryType",
     "name" : "CategoryType",
-    "x" : 890,
-    "y" : 494
+    "x" : 915,
+    "y" : 479
   }, {
-    "id" : "/BirthDay",
+    "id" : "/Birthday",
     "name" : "BirthDay",
     "x" : -230,
     "y" : 283
   }, {
     "id" : "/Discounts",
     "name" : "Discounts",
-    "x" : 201,
-    "y" : 895
+    "x" : 264,
+    "y" : 847
   }, {
     "id" : "/Group",
     "name" : "Group",
-    "x" : -177,
-    "y" : 850
+    "x" : -327,
+    "y" : 986
+  }, {
+    "id" : "/Birthday",
+    "name" : "BirthDay",
+    "x" : -258,
+    "y" : 490
+  }, {
+    "id" : "/Farewell",
+    "name" : "Farewell",
+    "x" : 227,
+    "y" : 1515
+  }, {
+    "id" : "/Redirect",
+    "name" : "Redirect",
+    "x" : -415,
+    "y" : 1559
+  }, {
+    "id" : "/Transfer",
+    "name" : "Transfer",
+    "x" : 1136,
+    "y" : 1307
   } ]
 }
