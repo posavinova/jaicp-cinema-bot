@@ -60,8 +60,3 @@ theme: /
 
     state: Transfer
         a: Вашим вопросом уже занимаются...
-
-    state: Welcome
-        random: 
-            a: Привет-привет!
-            a: Здравствуйте!
