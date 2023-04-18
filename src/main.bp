@@ -47,5 +47,10 @@
     "name" : "Transfer",
     "x" : 1136,
     "y" : 1307
+  }, {
+    "id" : "/Welcome",
+    "name" : "Welcome",
+    "x" : 665,
+    "y" : 260
   } ]
 }
