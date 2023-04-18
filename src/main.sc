@@ -9,7 +9,6 @@ theme: /
         intent: /акции и льготы/др || toState = "/Birthday"
         intent: /акции и льготы/группы || toState = "/Group"
         intent: /акции и льготы/особые категории || toState = "/Discounts"
-        intent: /привет || toState = "/Welcome"
         event: noMatch || toState = "/NoMatch"
 
     state: NoMatch
